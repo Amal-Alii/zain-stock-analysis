@@ -44,7 +44,7 @@ standard technical indicators show about the stock's current state?**
    (2012: +71%, 2023: +44%) both immediately followed down years, suggesting the stock
    tends to snap back rather than trend downward for long.
 
-## Tools & Skills
+## Tools used
 
 Python (pandas, NumPy, matplotlib) · technical indicator construction · time series
 analysis · corporate event-impact analysis · data cleaning
