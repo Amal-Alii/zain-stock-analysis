@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/30370694/README.md)
 # Zain KSA (Tadawul: 7030) Stock Analysis
 
-**16 years of daily price data — technical indicators & corporate event impact analysis**
+**16 years of daily price data. technical indicators & corporate event impact analysis**
 
 ## The Problem
 
